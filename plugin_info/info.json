@@ -1,0 +1,31 @@
+{
+	"id": "devialet",
+	"name": "Devialet",
+	"pluginVersion": "0.1.0",
+	"description": {
+		"fr_FR": "Pilotez vos enceintes Devialet (Phantom, Expert, Dialog, etc.) via l'API locale IP Control. Contrôle du volume, lecture, sources, sourdine et mode nuit.",
+		"en_US": "Control your Devialet speakers (Phantom, Expert, Dialog, etc.) through the local IP Control API. Volume, playback, sources, mute and night mode control."
+	},
+	"licence": "AGPL",
+	"author": "OpenCode",
+	"require": "4.4",
+	"category": "multimedia",
+	"hasDependency": false,
+	"hasOwnDeamon": false,
+	"maxDependancyInstallTime": 0,
+	"changelog": "https://github.com/jeedom/plugin-devialet/blob/main/docs/fr_FR/changelog.md",
+	"documentation": "https://github.com/jeedom/plugin-devialet/blob/main/docs/fr_FR/index.md",
+	"language": [
+		"fr_FR",
+		"en_US"
+	],
+	"compatibility": [
+		"smart",
+		"luna",
+		"atlas",
+		"rpi",
+		"docker",
+		"diy",
+		"mobile"
+	]
+}
